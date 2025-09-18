@@ -44,7 +44,9 @@ brain-even
 ```
 
 **Example:**
-[![asciicast](https://asciinema.org/a/5SpSdyGKvyr4EQS3xC6EBLuUe.svg)](https://asciinema.org/a/5SpSdyGKvyr4EQS3xC6EBLuUe)
+<a href="https://asciinema.org/a/5SpSdyGKvyr4EQS3xC6EBLuUe" target="_blank" rel="noopener noreferrer">
+  <img src="https://asciinema.org/a/5SpSdyGKvyr4EQS3xC6EBLuUe.svg" alt="Brain Even Game Demo">
+</a>
 
 ### ➕ Calc Game
 A mental math challenge where you solve various arithmetic problems.
@@ -55,7 +57,9 @@ brain-calc
 ```
 
 **Example:**
-[![asciicast](https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu.svg)](https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu)
+<a href="https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu" target="_blank" rel="noopener noreferrer">
+  <img src="https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu.svg" alt="Brain Even Game Demo">
+</a>
 
 ---
 
