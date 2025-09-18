@@ -57,6 +57,17 @@ brain-calc
 **Example:**
 [![asciicast](https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu.svg)](https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu)
 
+### 📐 GCD Game
+Find the greatest common divisor (GCD) of two numbers.
+
+**Run:**
+```bash
+brain-gcd
+```
+
+**Example:**
+[![asciicast](https://asciinema.org/a/vh1vo1k1a7gA4ZUbSkDerDYdu.svg)](https://asciinema.org/a/vh1vo1k1a7gA4ZUbSkDerDYdu)
+
 ---
 
 ## 🎯 How to Play
