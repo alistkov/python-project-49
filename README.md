@@ -68,6 +68,18 @@ brain-gcd
 **Example:**
 [![asciicast](https://asciinema.org/a/vh1vo1k1a7gA4ZUbSkDerDYdu.svg)](https://asciinema.org/a/vh1vo1k1a7gA4ZUbSkDerDYdu)
 
+
+### 📊 Progression Game
+Find the missing number in progression.
+
+**Run:**
+```bash
+brain-progression
+```
+
+**Example:**
+[![asciicast](https://asciinema.org/a/KaBMYnH1WJAmB4llftYHoT7Z3.svg)](https://asciinema.org/a/KaBMYnH1WJAmB4llftYHoT7Z3)
+
 ---
 
 ## 🎯 How to Play

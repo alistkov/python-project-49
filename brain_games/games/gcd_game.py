@@ -1,4 +1,4 @@
-from random import choice, randint
+from random import randint
 
 from brain_games.utils import getGreatestCommonDivisor
 
