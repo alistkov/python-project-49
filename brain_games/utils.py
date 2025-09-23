@@ -6,18 +6,21 @@ def is_even(number):
     return number % 2 == 0
 
 
-def get_greatest_common_divisor(firstNumber, secondNumber):
-    if (secondNumber == 0):
-        return firstNumber
-    return get_greatest_common_divisor(secondNumber, firstNumber % secondNumber)
+def get_greatest_common_divisor(first_number, second_number):
+    if (second_number == 0):
+        return first_number
+    return get_greatest_common_divisor(
+        second_number,
+        first_number % second_number
+    )
 
 
 def generate_progression(start, step, progression_length):
     progression = []
 
     for index in range(progression_length):
-        currentElement = start + index * step
-        progression.append(currentElement)
+        current_element = start + index * step
+        progression.append(current_element)
 
     return progression
 
