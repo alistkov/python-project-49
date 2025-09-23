@@ -7,11 +7,11 @@ def is_even(number):
 
 
 def get_greatest_common_divisor(first_number, second_number):
-    if (first_number == 0):
-        return second_number
+    if (second_number == 0):
+        return first_number
     return get_greatest_common_divisor(
-        first_number,
-        second_number % first_number
+        second_number,
+        first_number % second_number
     )
 
 
