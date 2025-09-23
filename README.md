@@ -46,6 +46,7 @@ brain-even
 **Example:**
 [![asciicast](https://asciinema.org/a/5SpSdyGKvyr4EQS3xC6EBLuUe.svg)](https://asciinema.org/a/5SpSdyGKvyr4EQS3xC6EBLuUe)
 
+
 ### ➕ Calc Game
 A mental math challenge where you solve various arithmetic problems.
 
@@ -56,6 +57,7 @@ brain-calc
 
 **Example:**
 [![asciicast](https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu.svg)](https://asciinema.org/a/FAdkcW0ZvG309d8l4t64gcaAu)
+
 
 ### 📐 GCD Game
 Find the greatest common divisor (GCD) of two numbers.
@@ -79,6 +81,19 @@ brain-progression
 
 **Example:**
 [![asciicast](https://asciinema.org/a/KaBMYnH1WJAmB4llftYHoT7Z3.svg)](https://asciinema.org/a/KaBMYnH1WJAmB4llftYHoT7Z3)
+
+
+### 🔍 Prime Game
+Determine if a given number is prime.
+
+**Run:**
+```bash
+brain-prime
+```
+
+**Example:**
+[![asciicast](https://asciinema.org/a/Wbg0aAlsMfBA5Py1BiisQL9ll.svg)](https://asciinema.org/a/Wbg0aAlsMfBA5Py1BiisQL9ll)
+
 
 ---
 
