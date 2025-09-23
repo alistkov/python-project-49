@@ -1,17 +1,18 @@
 import math
+from random import randint
 
 
 def is_even(number):
     return number % 2 == 0
 
 
-def getGreatestCommonDivisor(firstNumber, secondNumber):
+def get_greatest_common_divisor(firstNumber, secondNumber):
     if (secondNumber == 0):
         return firstNumber
-    return getGreatestCommonDivisor(secondNumber, firstNumber % secondNumber)
+    return get_greatest_common_divisor(secondNumber, firstNumber % secondNumber)
 
 
-def generateProgression(start, step, progression_length):
+def generate_progression(start, step, progression_length):
     progression = []
 
     for index in range(progression_length):
@@ -29,3 +30,7 @@ def is_prime_number(number):
         if number % i == 0:
             return False
     return True
+
+
+def generate_random(start, end):
+    return randint(start, end)
