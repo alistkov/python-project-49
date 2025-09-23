@@ -1,6 +1,6 @@
 from random import randint
 
-from brain_games.utils import generateProgression
+from brain_games.utils import generate_progression
 
 
 def game():
@@ -8,7 +8,7 @@ def game():
     step = randint(5, 9)
     progression_length = randint(5, 10)
 
-    progression = generateProgression(start, step, progression_length)
+    progression = generate_progression(start, step, progression_length)
 
     random_index = randint(0, progression_length - 1)
 
