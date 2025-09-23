@@ -1,4 +1,5 @@
 import math
+from random import randint
 
 
 def is_even(number):
@@ -29,3 +30,7 @@ def is_prime_number(number):
         if number % i == 0:
             return False
     return True
+
+
+def generate_random(start, end):
+    return randint(start, end)

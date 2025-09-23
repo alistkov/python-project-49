@@ -1,11 +1,9 @@
-from random import randint
-
-from brain_games.utils import get_greatest_common_divisor
+from brain_games.utils import generate_random, get_greatest_common_divisor
 
 
 def game():
-    first = randint(2, 20)
-    second = randint(20, 50)
+    first = generate_random(2, 20)
+    second = generate_random(20, 50)
     question = f"{first} {second}"
     correct_answer = get_greatest_common_divisor(first, second)
 
